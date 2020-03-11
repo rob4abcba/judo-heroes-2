@@ -33,7 +33,7 @@
   "devDependencies": {
     "babel-loader": "^7.1.1",
     "babel-register": "^6.24.1",
-    "eslint": "^3.19.0",
+    "eslint": "^4.18.2",
     "eslint-config-airbnb": "^15.0.2",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
